@@ -6,7 +6,7 @@
 package proyectogh;
 
 /**
- *
+ * Hola Mundo
  * @author redes
  * @since 28/02/2020
  */
